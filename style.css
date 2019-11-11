@@ -96,3 +96,12 @@ a:hover {
     max-width: 800px;
     margin: 0 auto;
 }
+
+#nav_link {
+    max-width: 600px;
+	min-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
